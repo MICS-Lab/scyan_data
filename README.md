@@ -2,7 +2,7 @@
 
 This repository contains public datasets used for the library `scyan`.
 
-Note that this is **not** the main repository, which is actually hosted on Github [here](https://github.com/MICS-Lab/scyan).
+Note that this is **not** the main repository, which is actually hosted [here](https://github.com/MICS-Lab/scyan).
 
 ## Automatic data loading
 
